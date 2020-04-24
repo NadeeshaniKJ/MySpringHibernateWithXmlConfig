@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringHibernateXmlConfig:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringHibernateXmlConfig-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringHibernateXmlConfig:war exploded" />
+    </root>
+  </artifact>
+</component>
